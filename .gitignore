@@ -82,3 +82,7 @@ fastlane/test_output
 iOSInjectionProject/
 
 .DS_Store
+
+# GitHub description
+Screenshots/
+README.md
